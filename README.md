@@ -18,7 +18,6 @@
 - 🔍 Exploring **Hybrid Reinforcement Learning & Metaheuristics**
 - 📚 Always learning something new, especially **Rust, GitLab, and Neural-Symbolic AI**
 - 🎯 2025 Goals:
-  - ✅ GSoC/C4GT contributor
   - ✅ Rust + Embedded + Satellite tools expert
   - ✅ Release my own open-source AI tools
 - 🌐 Portfolio: [s7g4.github.io](https://s7g4.github.io/Portfolio/)
