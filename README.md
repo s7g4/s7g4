@@ -21,6 +21,8 @@
   - ✅ GSoC/C4GT contributor
   - ✅ Rust + Embedded + Satellite tools expert
   - ✅ Release my own open-source AI tools
+- 🌐 Portfolio: [s7g4.github.io](https://s7g4.github.io/Portfolio/)
+
 
 ---
 
